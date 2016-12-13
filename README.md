@@ -21,7 +21,7 @@ For now, it uses the [Cornell Movie Dialogs](http://www.cs.cornell.edu/~cristian
 
 ## Installation
 
-The program requires the following dependencies (easy to install using pip):
+The program requires the following dependencies (easy to install with `pip3 install -r requirements.txt`):
  * python 3.5
  * tensorflow (tested with v0.11.0)
  * numpy
